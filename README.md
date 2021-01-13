@@ -10,3 +10,14 @@ The ocean is abundant in mineral resources, oil and gas, natural gas hydrate, bi
 
 ## Needs From Sustained Economic Development in Marine Science and Technology
 
+### Needs in Upgrading Traditional Industries and Emerging of Novel Industry
+
+Marine Emerging Industry diantaranya adalah :
+
+1. Bio-pharmaceutical Industry
+2. Marine Power Industry
+3. Marine Chemical Industry
+4. Water Use Industry
+
+Marine Power Industry mengacu ke penggunaan ocean energy di pesisir dan marine wind energy untuk memproduksi listrik.
+
