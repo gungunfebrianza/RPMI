@@ -4,6 +4,8 @@ Indonesia Shrimp Industry : Now to 2040 インドネシア養殖エビ業界 : �
 
 Government & Entrepreneur Insight 政府&企業の見識
 
+<img src="/assets/Oceanography.png" style="zoom:100%;" />
+
 # The Ocean
 
 71 % permukaan bumi dipenuhi oleh lautan yang menyediakan sumber daya yang dapat memberikan pengaruh signikan terhadap kegiatan politik, militer, dan strategi ekonomi.
@@ -13,6 +15,8 @@ The ocean is abundant in mineral resources, oil and gas, natural gas hydrate, bi
 ## Needs From Sustained Economic Development in Marine Science and Technology
 
 ### Needs in Upgrading Traditional Industries and Emerging of Novel Industry
+
+<img src="/assets/MarineEmergingIndustry.png" style="zoom:100%;" />
 
 Marine Emerging Industry diantaranya adalah :
 
