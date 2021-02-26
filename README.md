@@ -8,7 +8,7 @@ Government & Entrepreneur Insight 政府&企業の見識
 
 # The Ocean
 
-71 % permukaan bumi dipenuhi oleh lautan yang menyediakan sumber daya yang dapat memberikan pengaruh signikan terhadap kegiatan politik, militer, dan strategi ekonomi.
+71 % permukaan bumi dipenuhi oleh lautan yang menyediakan sumber daya yang dapat memberikan pengaruh signikan terhadap kegiatan politik, militer, dan strategi ekonomi. Lautan menyediakan sumber protein yang paling berkualitas.
 
 The ocean is abundant in mineral resources, oil and gas, natural gas hydrate, biological resources, energy and photo-free biological evolution, which may arise our scientific interests.
 
@@ -18,7 +18,7 @@ The ocean is abundant in mineral resources, oil and gas, natural gas hydrate, bi
 
 <img src="/assets/MarineEmergingIndustry.png" style="zoom:100%;" />
 
-Marine Emerging Industry diantaranya adalah :
+**Marine Emerging Industry** diantaranya adalah :
 
 1. Marine Biological-pharmaceutical Industry
 2. Marine Power Industry
@@ -26,16 +26,22 @@ Marine Emerging Industry diantaranya adalah :
 4. Water Use Industry
 5. Offshore Oil & Gas Industry
 
-Marine Biological-pharmaceutical Industry mengacu ke aktivitas manufaktur penggunaan marine organism sebagai bahan mentah untuk melakukan ekstraksi bahan aktif (Active Ingredients)
+**Marine Biological-pharmaceutical Industry** mengacu ke aktivitas manufaktur penggunaan **marine organism** sebagai bahan mentah untuk melakukan ekstraksi bahan aktif (**Active Ingredients**)
 
 #### Marine Power Industry 
 
 Mengacu ke penggunaan energi lautan untuk memproduksi listrik.
 
-Salah satu teknologi yang baru muncul adalah **Biomimetic Wind Converter**.
+Salah satu teknologi yang baru muncul adalah **Biomimetic Wind Turbine**.
 
-Water Use Industry mengacu ke penggunaan air laut dan aktivitas desalination agar bisa memproduksi air bersih layak minum untuk manusia dan dunia pertanian.
+#### Water Use Industry 
 
-Marine Oil & Gas Industry mengacu ke kegiatan eksplorasi lautan, mining, transportasi, memproses crude oil dan aktivitas untuk memproduksi natural gas.
+Mengacu ke penggunaan air laut dan aktivitas desalination agar bisa memproduksi air bersih layak minum untuk manusia dan dunia pertanian.
 
-Marine Chemical Industry mengacu ke penggunaan lautan untuk memproduksi kekayaan kimia, garam laut, algae biochemistry dan aktivitas produksi marine petrochemical.
+#### Marine Oil & Gas Industry 
+
+Mengacu ke kegiatan eksplorasi lautan, mining, transportasi, memproses crude oil dan aktivitas untuk memproduksi natural gas.
+
+#### Marine Chemical Industry 
+
+Mengacu ke penggunaan lautan untuk memproduksi kekayaan kimia, garam laut, algae biochemistry dan aktivitas produksi marine petrochemical.
