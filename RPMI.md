@@ -1,4 +1,6 @@
-# RPMI
+# RPMI (Riset Pemuda Maritim Indonesia)
+
+## Author Gun Gun Febrianza
 
 Indonesia Shrimp Industry : Now to 2040 インドネシア養殖エビ業界 : 現在〜2040年
 
