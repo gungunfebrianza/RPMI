@@ -1,0 +1,12 @@
+/node_modules
+/.vscode
+/.idea
+
+/.DS_Store
+npm-debug.log
+# .env
+dump.rdb
+.eslintcache
+/files/*
+
+access.log
