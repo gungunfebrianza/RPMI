@@ -4,7 +4,7 @@
 
 # Sustainable Energy
 
-Bahan bakar fosil yang digunakan setiap hari menjadi penyebab **global warming**. 
+Sustainable energy Bahan bakar fosil yang digunakan setiap hari menjadi penyebab **global warming**. 
 
 # Carbon Finance
 
@@ -38,6 +38,7 @@ Penanaman pohon
 - Carbon Offset
 - Carbon Neutrality
 - Carbon Tax
+- Greenhouse Gas Emission (GHG)
 
 # KRUNA
 
